@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+ems-pro-react/node_modules/
+
+# Firebase Service Account (NEVER COMMIT THIS!)
+backed/serviceAccountKey.json
+serviceAccountKey.json
+**/serviceAccountKey.json
+backed/firebase-service-account.json
+firebase-service-account.json
+**/firebase-service-account.json
+
+# Environment Variables
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+npm-debug.log*
+logs/
+
+# Build outputs
+dist/
+build/
+.dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
