@@ -101,4 +101,5 @@ Inside the `6 SEM PROJECT` folder, several useful utility scripts are available:
 
 ## 📜 License
 This project is licensed under the ISC License.
-before run tis project create your own firestore in firebase console
+
+#### note : -before run this project create your own firestore in firebase console
